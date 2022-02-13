@@ -1,0 +1,14 @@
+D:\Personal-Work-Space\C# Project\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.exe
+D:\Personal-Work-Space\C# Project\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.deps.json
+D:\Personal-Work-Space\C# Project\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.runtimeconfig.json
+D:\Personal-Work-Space\C# Project\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.runtimeconfig.dev.json
+D:\Personal-Work-Space\C# Project\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.dll
+D:\Personal-Work-Space\C# Project\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.pdb
+D:\Personal-Work-Space\C# Project\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.csproj.AssemblyReference.cache
+D:\Personal-Work-Space\C# Project\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal-Work-Space\C# Project\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.AssemblyInfoInputs.cache
+D:\Personal-Work-Space\C# Project\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.AssemblyInfo.cs
+D:\Personal-Work-Space\C# Project\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.csproj.CoreCompileInputs.cache
+D:\Personal-Work-Space\C# Project\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.dll
+D:\Personal-Work-Space\C# Project\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.pdb
+D:\Personal-Work-Space\C# Project\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.genruntimeconfig.cache
